@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Frank
 
-* 📞 I’m currently working on [bellcalls](https://github.com/raav3n/bellcalls)
-* 💻 Trying to learn more about working with React, Typescript and Node/Express
-
+* 📞 I’m currently focusing on CTF's and learning to pentest (focus on web based challenges)
+* 💻 working on [scanny](#) on the side (:
