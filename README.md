@@ -1,6 +1,12 @@
-### Hi there 👋 I'm Frank
+<h1 align="center">Hi there, I'm Frank <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-* 📆 I’m focused school at the moment and getting my Certified Penetration Tester Specialist certificaiton from HacktheBox.
-* 📓 Studying at CSULB with a major in Computer Science and a minor in Cyber Security.
-* 💻 Working on [rust_dos](https://github.com/raav3n/rust_dos) on my free time (:
-* In case you're curious, rust_dos will be able to perfrom DoS attacks using UDP packets with Rust. The goal would be to have it perform DNS Amplification Attacks. 
+<p align="center">
+    <i>
+        Preparing for HTB CTPS certification and highly interesting in purple teaming.<br>
+        Studying at CSULB with a major in Computer Science and a minor in Cyber Security.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/frank-mancia">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
+
