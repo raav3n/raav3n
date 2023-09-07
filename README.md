@@ -2,8 +2,9 @@
 
 <p align="center">
     <i>
-        Preparing for HTB CTPS certification and highly interesting in purple teaming.<br>
+        Highly interesting in purple teaming.<br>
         Studying at CSULB with a major in Computer Science and a minor in Cyber Security.<br>
+        Currently working on Rust packet sniffler.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/frank-mancia">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
