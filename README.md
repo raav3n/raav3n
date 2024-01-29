@@ -2,9 +2,8 @@
 
 <p align="center">
     <i>
-        Highly interesting in purple teaming.<br>
-        Studying at CSULB with a major in Computer Science and a minor in Cyber Security.<br>
-        Currently working on Rust ransomware<br>
+        Highly interesting in cybersecurity and development.<br>
+        Graduated from CSULB with a major in Computer Science and a minor in Cyber Security.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/frank-mancia">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
